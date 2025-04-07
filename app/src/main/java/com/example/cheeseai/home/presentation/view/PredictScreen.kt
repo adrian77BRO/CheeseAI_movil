@@ -67,7 +67,7 @@ fun PredictScreen(viewModel: PredictViewModel = viewModel()) {
         Spacer(modifier = Modifier.height(32.dp))
 
         Text(
-            "CheeseAI 🧀",
+            "Analizar imagen 🧀",
             style = MaterialTheme.typography.headlineMedium.copy(color = Color.Yellow)
         )
 
